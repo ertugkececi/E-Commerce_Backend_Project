@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JYNGnDpdNIryiu/cJCw43RyZqtPETCEURdeRhMYyouLMezSFXY/2wTdmLLpJqVmy4Pw808IsmI9eVRRTZteD0Q==",
+  "dgSpecHash": "pMrXeW2VPPotNJqahcanPWAKYQleQAIm9kgf0gNAnqiBm/NJNNgijjbRKtZMX1O+tB/Z7XO9TGFHrzlVhyfaTA==",
   "success": true,
-  "projectFilePath": "/Users/etocans/Projects/E-Commerce_Backend_Project/ConsoleUI/ConsoleUI.csproj",
+  "projectFilePath": "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/ConsoleUI/ConsoleUI.csproj",
   "expectedPackageFiles": [
     "/Users/etocans/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/etocans/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

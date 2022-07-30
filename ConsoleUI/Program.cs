@@ -4,16 +4,20 @@ using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 
 ProductTest();
-CategoryTest();
+//CategoryTest();
 
 static void ProductTest()
 {
     ProductManager productManager = new ProductManager(new EfProductDal());
-
-    foreach (var product in productManager.GetProductDetails())
+    var productResult = productManager.GetProductDetails();
+    if (productResult.Success == true)
     {
-        Console.WriteLine($"{product.ProductName} - {product.CategoryName}");
+        foreach (var product in productResult.Data)
+        {
+            Console.WriteLine($"{product.ProductName} - {product.CategoryName}");
+        }
     }
+    else Console.WriteLine(productResult.Message);
     Console.WriteLine("---------------------------\n");
 }
 

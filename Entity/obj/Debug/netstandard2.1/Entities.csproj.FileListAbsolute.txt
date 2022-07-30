@@ -24,3 +24,16 @@
 /Users/etocans/Projects/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.csproj.CopyComplete
 /Users/etocans/Projects/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.dll
 /Users/etocans/Projects/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.pdb
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/bin/Debug/netstandard2.1/Entities.deps.json
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/bin/Debug/netstandard2.1/Entities.dll
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/bin/Debug/netstandard2.1/Entities.pdb
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/bin/Debug/netstandard2.1/Core.dll
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/bin/Debug/netstandard2.1/Core.pdb
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.csproj.AssemblyReference.cache
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.AssemblyInfoInputs.cache
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.AssemblyInfo.cs
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.csproj.CoreCompileInputs.cache
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.csproj.CopyComplete
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.dll
+/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/obj/Debug/netstandard2.1/Entities.pdb

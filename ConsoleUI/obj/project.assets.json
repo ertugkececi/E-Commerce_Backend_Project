@@ -5733,11 +5733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/etocans/Projects/E-Commerce_Backend_Project/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/ConsoleUI/ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "/Users/etocans/Projects/E-Commerce_Backend_Project/ConsoleUI/ConsoleUI.csproj",
+      "projectPath": "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/ConsoleUI/ConsoleUI.csproj",
       "packagesPath": "/Users/etocans/.nuget/packages/",
-      "outputPath": "/Users/etocans/Projects/E-Commerce_Backend_Project/ConsoleUI/obj/",
+      "outputPath": "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/ConsoleUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/etocans/.nuget/NuGet/NuGet.Config"
@@ -5752,14 +5752,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/etocans/Projects/E-Commerce_Backend_Project/Business/Business.csproj": {
-              "projectPath": "/Users/etocans/Projects/E-Commerce_Backend_Project/Business/Business.csproj"
+            "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Business/Business.csproj": {
+              "projectPath": "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Business/Business.csproj"
             },
-            "/Users/etocans/Projects/E-Commerce_Backend_Project/DataAccess/DataAccess.csproj": {
-              "projectPath": "/Users/etocans/Projects/E-Commerce_Backend_Project/DataAccess/DataAccess.csproj"
+            "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/DataAccess/DataAccess.csproj"
             },
-            "/Users/etocans/Projects/E-Commerce_Backend_Project/Entity/Entities.csproj": {
-              "projectPath": "/Users/etocans/Projects/E-Commerce_Backend_Project/Entity/Entities.csproj"
+            "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/Entities.csproj": {
+              "projectPath": "/Users/etocans/Documents/GitHub/E-Commerce_Backend_Project/Entity/Entities.csproj"
             }
           }
         }
